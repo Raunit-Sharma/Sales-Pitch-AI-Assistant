@@ -29,7 +29,7 @@ Generate compelling sales pitches with:
 - **9 Tones**: Confident, Enthusiastic, Professional, Friendly, Empathetic, Authoritative, Urgent, Casual, Aggressive
 - **4 Audiences**: Investor, Customer, B2B, Partner (with deep customization)
 - **3 Durations**: 30s (70-85 words), 60s (140-160 words), 120s (280-320 words)
-- **2 Languages**: English, Hinglish (Hindi-English mix for Indian market)
+- **3 Languages**: English, Hindi, Hinglish (Hindi-English mix for Indian market)
 
 ### 2. **Q&A Chat** (`POST /api/v1/chat`)
 Answer customer questions like a top-tier salesperson—concisely and persuasively.
@@ -448,3 +448,4 @@ Available for personal and commercial use.
 
 **Built with ❤️ using FastAPI, LangChain, React, and Groq API**  
 **Version:** 2.0 (Production Ready) | **Last Updated:** February 23, 2026
+
